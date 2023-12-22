@@ -29,6 +29,6 @@ In today's data-driven society, having an intelligent strategy is essential for 
 ![2](https://github.com/badarunnisats/Global-Super-Store-Analysis/assets/109198401/371f7506-44f8-4b94-8542-fd831d320188)
 
 
-# CONCLUSION
+# Conclusion
 
 In conclusion, this project utilized data analytics techniques to analyze the performance of a global superstore. Through the interactive dashboard and data insights, stakeholders can make informed decisions and take necessary actions to achieve their strategic objectives. By leveraging the power of data, businesses can drive growth, improve profitability, and stay competitive in today's dynamic market.
